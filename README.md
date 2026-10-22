@@ -111,3 +111,7 @@ tests/
     test_converter.py
     test_cli.py
 ```
+
+## License
+
+MIT. See [LICENSE](LICENSE).
